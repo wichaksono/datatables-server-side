@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title></title>
+	<title>Datatable Server Side</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/jquery.dataTables.css">
 </head>
 <body>
